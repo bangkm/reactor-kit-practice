@@ -1,0 +1,6 @@
+framework module Pods_BasicExampleCounter_BasicExampleCounterUITests {
+  umbrella header "Pods-BasicExampleCounter-BasicExampleCounterUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
